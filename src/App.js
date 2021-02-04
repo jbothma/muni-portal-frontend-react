@@ -6,7 +6,7 @@ function App() {
     <div>
       <TemporaryDrawer/>
       <Container>
-        {'stuff'}
+        { 'stuff' }
       </Container>
     </div>
   );
